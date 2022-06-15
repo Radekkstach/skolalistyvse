@@ -1,0 +1,12 @@
+G:\PRogramovani\list\list\bin\Debug\list.exe.config
+G:\PRogramovani\list\list\bin\Debug\list.exe
+G:\PRogramovani\list\list\bin\Debug\list.pdb
+G:\PRogramovani\list\list\obj\Debug\list.csprojAssemblyReference.cache
+G:\PRogramovani\list\list\obj\Debug\list.Form1.resources
+G:\PRogramovani\list\list\obj\Debug\list.Properties.Resources.resources
+G:\PRogramovani\list\list\obj\Debug\list.csproj.GenerateResource.cache
+G:\PRogramovani\list\list\obj\Debug\list.csproj.CoreCompileInputs.cache
+G:\PRogramovani\list\list\obj\Debug\list.exe
+G:\PRogramovani\list\list\obj\Debug\list.pdb
+G:\PRogramovani\list\list\obj\Debug\list.Form2.resources
+G:\PRogramovani\list\list\obj\Debug\list.Form3.resources
